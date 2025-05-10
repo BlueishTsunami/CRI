@@ -1,6 +1,6 @@
 Course Rough and Irritating
 
-Another attempt at making a game, but didn't get very far on it. Regardless, going to showcase the bones here. Wrote most of the code outside of the boilerplate myself, and also created mostly all of the art by hand in Aseprite, outside of some particle effects. 
+Another attempt at making a game, but didn't get very far on it. Regardless, going to showcase the bones here. Wrote most of the code outside of the Unity boilerplate myself (C#), and also created mostly all of the art by hand in Aseprite, outside of some particle effects. 
 
 This game is a tribute to one of my favorite indie games back on the Xbox360, "Zombie Estate". Premise is simple, 3/4-ish view shooter with waves of enemies and upgradable weapons. Some key mechanics I was hoping to achieve: 
 - Weapon upgrade system. Maybe money from enemies, and a store?
