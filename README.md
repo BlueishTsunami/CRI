@@ -13,5 +13,6 @@ Clearly did not get where I wanted to with this one, but still happy with what I
 - Had a lot of fun trying to get the projectile system to work for the gun. The particle would spawn in the wrong place, weird trajectories, wouldn't register impacts, etc. Took a lot of tweaking to get it to work how it does, with particle effects hitting the wall.
 - Spent far too long creating tilesets for the map. Creating a subset of tiles is a common way in games to create the building blocks for maps. To make sure the repetition isn't too jarring, made some variations such as windows.
 - Speaking of windows, the intention is to shoot out of them. Didn't get this far, but have ideas on how it could work.
+- Enemy AI, pathing, etc was tough to get down in an enjoyable and sensible way. 
 
 
