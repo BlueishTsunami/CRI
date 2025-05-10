@@ -1,4 +1,4 @@
-Course Rough and Irritating
+# Course Rough and Irritating
 
 Another attempt at making a game, but didn't get very far on it. Regardless, going to showcase the bones here. Wrote most of the code outside of the Unity boilerplate myself (C#), and also created mostly all of the art by hand in Aseprite, outside of some particle effects. 
 
